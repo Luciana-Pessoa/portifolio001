@@ -158,7 +158,7 @@ img {
 @media (max-width:1200px) {
     
     #inicio{
-        background: #352728;
+        background: #0a0506;
         height: auto;
     }
 
@@ -297,7 +297,7 @@ img {
         z-index: 2;
         top: 2rem;
         right: 2rem;
-        background: #79702e;
+        background: #3cb314;
         color: white;
         font-size: 3rem;
         line-height:3rem;
@@ -322,7 +322,7 @@ img {
     }
 
     .barra {
-        background: rgba(0, 0, 0, 0.527);
+        background: rgba(10, 5, 5, 0.527);
     }
 
 }
